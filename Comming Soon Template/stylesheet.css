@@ -1,0 +1,42 @@
+
+/*the code shown below fixes the image as you change the browser size*/
+
+body{
+
+	background: url("images/image.png")
+	no-repeat center center fixed;
+	background-size:cover; 
+}
+
+/********************************************************************/
+
+div{
+	padding:20px;
+	background-color: #dd4814;
+	width:60%;
+	margin: 100px auto;
+	text-align: center;
+	border-radius: 25px;
+	color: white;
+}
+
+button{
+	
+	background-color: #FFF;
+	padding: 10px;
+	color: #000000;
+	border-radius: 15px;
+	font-size:1em; 
+	font-family: 'Karla', sans-serif;
+}
+
+h1{
+
+	font-size: 3em;
+	font-family: 'Bree Serif', serif;
+}
+
+p{
+
+	font-family: 'Karla', sans-serif;
+}
