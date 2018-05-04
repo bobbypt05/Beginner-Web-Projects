@@ -3,6 +3,7 @@ Beginner web development projects based on basic skills of HTML, CSS and JavaScr
 
 Project List :
 - Coming Soon Template.
-- Local Weather.
+- Local Weather.(Not Yet Completed)
+- Pizza Restro.
 - Random Quote Generator.
 - Facebook Page Without CSS.(Disable css from original facebook page and both the pages will look similar)
