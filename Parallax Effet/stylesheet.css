@@ -1,0 +1,29 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+div{
+
+	height: 300px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.black{
+	background-color: black;
+}
+
+h1{
+	margin: 0px;
+	padding: 0px;	
+	text-align: center;
+	color: white;
+}
+
+p{
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	color: white;	
+}
