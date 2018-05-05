@@ -1,0 +1,42 @@
+
+
+h1{
+	border-radius: 10px;
+	border:2px solid black;
+	text-align: center;
+	width:80%;
+	margin : 10px auto;
+
+}
+
+ul{
+		list-style-type: none;
+		margin:0px;
+		padding:0px;
+		background-color: #333;
+		overflow:hidden;
+}
+
+li{
+	float: left;
+}
+
+li i{
+	color:white;
+}
+
+li a{
+	display: inline-block;
+	color:orange;
+	text-align: center;
+	padding: 15px 20px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: darkred;
+}
+
+.righty{
+	float: right;
+}
