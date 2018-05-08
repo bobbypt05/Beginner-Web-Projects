@@ -1,0 +1,35 @@
+.big-1{
+
+	background:linear-gradient(#FF6633,#FFFFFF);
+	height :150px;
+}
+
+.big-2{
+
+	background:linear-gradient(to right,#FF6633,#FFFFFF);
+	height :150px;
+}
+
+.big-3{
+
+	background:linear-gradient(to left,#FF6633,#FFFFFF);
+	height :150px;
+}
+
+.big-4{
+
+	background:linear-gradient(to bottom right,#FF6633,#FFFFFF);
+	height :150px;	
+}
+
+.big-5{
+
+	background:linear-gradient(#FF6633,#FFFFFF,green);
+	height :150px;
+}
+
+.big-6{
+
+	background:radial-gradient(#FFFFFF,#FF6633);
+	height :150px;
+}
