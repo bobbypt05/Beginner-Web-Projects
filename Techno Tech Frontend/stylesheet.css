@@ -1,0 +1,28 @@
+
+html{
+	height:100%;
+}
+body{
+	background-color: #222;
+	background-image: url("images/image1.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Catamaran', sans-serif;
+}
+
+
+.center{
+	text-align: center;
+	padding-top: 15%;
+}
+
+h1,p,i{
+	color: white;
+}
+
+@media (max-width: 786px){
+	h1, h2{
+			background-color: #222;
+	}
+
+}
