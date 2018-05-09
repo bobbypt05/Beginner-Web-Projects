@@ -1,0 +1,25 @@
+body{
+	padding: 20px;
+	background-color: #222;
+	font-family: 'Catamaran', sans-serif;
+}
+
+.nav-wrapper{
+	position: absolute;
+	top:0;
+	left:0;
+	right: 0;
+	z-index: 20;
+}
+
+.carousel{
+		height:500px;
+}
+
+.carousel-item > img{
+	
+	height: 550px;
+	min-width: 100px;
+	top: 0;
+	left: 0;
+}
