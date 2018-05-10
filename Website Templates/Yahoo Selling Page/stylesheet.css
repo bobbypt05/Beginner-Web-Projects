@@ -1,0 +1,52 @@
+body{
+		padding-top: 20px;
+		padding-bottom:5px;
+}
+
+.nav-justified{
+		background-color: #eee;
+		border-radius: 10px;
+		border:solid 1px;
+}
+
+.nav-justified > li{
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 20px;
+}
+
+.nav-justified > li > a{
+
+		color:#777;
+		text-align: center; 
+		text-decoration: none;
+}
+
+.nav-justified > li > a:hover{
+		color: #000000;
+}
+
+.jumbotron > h1,p{
+	text-align: center;
+}
+
+.col-lg-4 > h1,p{
+	text-align: center;
+}
+
+.button-center{
+	text-align: center;
+}
+
+.btn-primary{
+	background-color: #222;
+	border:none;
+}
+
+footer{
+	margin-top: 30px;
+}
+
+footer > p >a{
+	color: #000;
+}
