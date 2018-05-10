@@ -1,5 +1,4 @@
 body{
-	padding: 20px;
 	background-color: #222;
 	font-family: 'Catamaran', sans-serif;
 }
@@ -22,4 +21,30 @@ body{
 	min-width: 100px;
 	top: 0;
 	left: 0;
+}
+
+.carousel-item > .container > .carousel-caption{     
+	position: absolute;
+	top:55%;  
+}
+
+.parent-center{
+	text-align: center;
+}
+
+.team-container{
+	margin-top: 80px;
+	color: white;
+}
+
+.col-lg-4{
+	padding: 10px;
+}
+
+.col-lg-4 > h2{
+		margin:10px;
+}
+
+.col-lg-4 > p{
+	margin-bottom: 10px;
 }
