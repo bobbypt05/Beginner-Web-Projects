@@ -63,7 +63,10 @@ body{
 
 .content > .col-md-7 > .content-text{
 	color: white;
-	padding: 10px;
+	position: relative;
+	padding-top: 100px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .content > .col-md-5 >img{
