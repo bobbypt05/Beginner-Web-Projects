@@ -1,6 +1,12 @@
 body{
+	padding:0px;
 	background-color: #222;
 	font-family: 'Catamaran', sans-serif;
+	overflow-x: hidden;
+}
+
+#carouselExampleIndicators{
+	width: 100%;
 }
 
 .nav-wrapper{
@@ -13,6 +19,7 @@ body{
 
 .carousel{
 		height:500px;
+		padding:0px;
 }
 
 .carousel-item > img{
@@ -47,4 +54,18 @@ body{
 
 .col-lg-4 > p{
 	margin-bottom: 10px;
+}
+
+.divider{
+	margin:40px 0;
+	background-color: #FFF;
+}
+
+.content > .col-md-7 > .content-text{
+	color: white;
+	padding: 10px;
+}
+
+.content > .col-md-5 >img{
+	padding:  30px;
 }
