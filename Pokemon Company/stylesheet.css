@@ -69,6 +69,25 @@ body{
 	padding-right: 20px;
 }
 
+
 .content > .col-md-5 >img{
 	padding:  30px;
+	border-radius: 15px;
+}
+
+footer{
+	color:white;
+
+}
+
+footer > .row > .col-md-11{
+		text-align: center;
+}
+
+a{
+	color:white;
+}
+
+a:hover{
+	color: white;
 }
