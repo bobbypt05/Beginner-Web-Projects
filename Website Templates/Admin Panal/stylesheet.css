@@ -1,3 +1,61 @@
 body{
 	font-family: 'Rosario', sans-serif;
 }
+
+.nav-sidebar {
+	list-style:none;
+	margin-top:10px;
+	padding-left: 0px;
+}
+
+.nav-sidebar > li > a{
+	padding:0px 25px;
+}
+
+.nav-sidebar > li{
+	padding-bottom: 15%;
+}
+
+.seperation{
+	margin-top: 50px;
+}
+
+hr{
+	background-color: #000;
+}
+
+.make-round{
+	border-radius:100px; 
+}
+
+.center{
+	text-align: center;
+}
+
+.upper-padding{
+	padding-top:20px; 
+}
+
+.vertical-line{
+	border-left:2px solid black;
+}
+
+.bottom-mrg{
+	margin-bottom: 10px;
+} 
+
+.top-mrg{
+	margin-top: 10px;
+}
+
+a{
+	color:#222; 
+}
+
+a:hover{
+	color: black;
+}
+
+.button-center{
+	text-align: center;
+}
