@@ -11,4 +11,7 @@ Project List :
 - Parallax Effect.
 - Pizza Restro.
 - Random Quote Generator.
+- Techno Tech Frontend Page.
 - Todo List App.
+- Website Templates (contains cool templates of the Pokemon Company, Admin Page and Yahoo Selling Page :P)
+
