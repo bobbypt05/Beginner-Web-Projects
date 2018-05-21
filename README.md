@@ -7,7 +7,7 @@ Project List :
 - Gradient (A simple Color effect).
 - Link. (Just A sequence in which linked element's css have to give values)
 - Local Weather.(Not Yet Completed)
-- Navigation bar.(Simple Navigation bar template [Working])
+- Navigation bar.(Simple Navigation bar template.)
 - Parallax Effect.
 - Pizza Restro.
 - Random Quote Generator.
